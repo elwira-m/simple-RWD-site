@@ -7,7 +7,7 @@
 - grid layout
 - media queries
 
-DEMO
+### [DEMO](https://elwira-m.github.io/simple-RWD-site/)
 
 #### Credits: 
 
